@@ -1,0 +1,35 @@
+_repo: Po-mesLes-bords-de-la-route.-Les-Flamandes.-Les-Moines_34008
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Émile
+    - Verhaeren, Emile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+description: ''
+gutenberg_bookshelf:
+- FR Littérature francophone
+- FR Poésie
+gutenberg_issued: '2010-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34008'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgian poetry (French)'
+- !lcc 'PQ'
+title: 'Poèmes: Les bords de la route. Les Flamandes. Les Moines'
+url: http://www.gutenberg.org/ebooks/34008
